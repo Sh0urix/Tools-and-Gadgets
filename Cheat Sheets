@@ -1,3 +1,35 @@
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
 
 Reverse Shell Cheat Sheet
+
+https://gtfobins.github.io/
+
+Gain root access through SUDO commands. 
+
+https://lolbas-project.github.io/#
+
+Windows applications that can be leveraged to perform certain functions.
+
+https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist
+
+Linux PrivEsc
+
+https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation
+
+Windows PrivEsc
+
+https://github.com/rebootuser/LinEnum
+
+Linux Emumeration
+
+https://github.com/sleventyeleven/linuxprivchecker
+
+Linux Priv checker
+
+https://github.com/GhostPack/Seatbelt
+
+Windows Enumeration
+
+https://github.com/411Hall/JAWS
+
+Windows Enumeration
