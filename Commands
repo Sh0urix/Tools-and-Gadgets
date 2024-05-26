@@ -1,1 +1,26 @@
+Commands for Linux
 
+cat /etc/passwd
+
+will print out list of users on the machine 
+
+cat /etc/shadow
+
+will print out the hash values of passwords
+
+
+Network Commands
+
+ip a
+ifconfig = network connections
+iwconfig = wireless network connections
+
+arp -a = what ip address is associated to which mac address.
+arp -r = routing table
+
+netstat = identifies what open ports and services are there
+
+service apache2 start = start a service (this example a web server)
+python3 -m http.server 80 = hosts a web server using python
+
+systemctl enable ssh = this will enable a service at start up (this example being ssh)
