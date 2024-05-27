@@ -24,3 +24,5 @@ service apache2 start = start a service (this example a web server)
 python3 -m http.server 80 = hosts a web server using python
 
 systemctl enable ssh = this will enable a service at start up (this example being ssh)
+
+git clone xxxxxx (this will download from github using the link on their website)
